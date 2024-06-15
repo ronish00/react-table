@@ -1,11 +1,12 @@
 // import BasicTable from './components/BasicTable'
-import SortingTable from './components/SortingTable'
+import FilteringTable from './components/FilteringTable'
+// import SortingTable from './components/SortingTable'
 
 function App() {
 
   return (
     <>
-      <SortingTable />
+      <FilteringTable />
     </>
   )
 }
